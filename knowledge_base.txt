@@ -1,0 +1,71 @@
+# Namaste Travels - Exclusive Package Database
+# NOTE FOR AI: Do not read these as lists. Use this data to answer specific questions. 
+# Suggest ONE package that fits the user's vibe/budget.
+
+## MANALI (Mountains & Snow) - "The Himachali Escape"
+### Option A: Budget Bliss (Best for friends/students)
+- **Price**: Rs. 18,999 per person
+- **Duration**: 5 Days / 4 Nights
+- **Stay**: 3-Star Hotel (near Mall Road)
+- **Inclusions**: Volvo Bus tickets (Delhi-Manali), Breakfast, Half-day sightseeing shared cab.
+- **Highlights**: Solang Valley, Hidimba Temple.
+- **Vibe**: Chill, affordable, snowy.
+
+### Option B: Honeymoon Special (Best for couples)
+- **Price**: Rs. 26,500 per person
+- **Duration**: 5 Days / 4 Nights
+- **Stay**: 4-Star Mountain View Resort (Private Balcony)
+- **Inclusions**: Private Cab for all days, Candlelight Dinner, Flower Bed Decoration, Rohtang Pass permit assistance.
+- **Highlights**: Romantic dinner, snow point, private transfers.
+- **Vibe**: Romantic, cozy, luxury.
+
+---
+
+## GOA (Beaches & Parties) - "The Susegad Life"
+### Option A: North Goa Party Pack (Best for bachelors)
+- **Price**: Rs. 15,500 per person
+- **Duration**: 4 Days / 3 Nights
+- **Stay**: 3-Star Hotel near Baga/Calangute
+- **Inclusions**: Airport Pickup/Drop, Breakfast, Scooters (assistance only).
+- **Highlights**: Tito's Lane, Baga Beach, Watersports (extra cost).
+- **Vibe**: High energy, nightlife.
+
+### Option B: South Goa Relax (Best for peace lovers/couples)
+- **Price**: Rs. 22,000 per person
+- **Duration**: 4 Days / 3 Nights
+- **Stay**: 4-Star Beach Resort (Private Beach Access)
+- **Inclusions**: Breakfast & Dinner, South Goa Sightseeing private car.
+- **Highlights**: Palolem Beach, Quiet sunsets, Luxury stay.
+- **Vibe**: Peaceful, scenic, premium.
+
+---
+
+## KERALA (Nature & Backwaters) - "God's Own Country"
+### Option A: Highlights of Kerala
+- **Price**: Rs. 28,000 per person
+- **Duration**: 6 Days / 5 Nights
+- **Route**: Munnar (2N) -> Thekkady (1N) -> Alleppey (1N Houseboat)
+- **Stay**: 3-Star Hotels + Deluxe Houseboat
+- **Inclusions**: Private AC Car (Cochin to Cochin), All meals on houseboat.
+- **Highlights**: Tea Gardens, Elephant Ride, Backwater cruise.
+- **Vibe**: Nature, relaxing, classic scenic beauty.
+
+---
+
+## RAJASTHAN (Royalty & Deserts) - "The Padharo Mare Desh"
+### Option A: Royal Rajasthan
+- **Price**: Rs. 32,500 per person
+- **Duration**: 7 Days / 6 Nights
+- **Route**: Jaipur -> Jodhpur -> Jaisalmer
+- **Stay**: Heritage Havelis
+- **Inclusions**: Camel Safari in Sam Sand Dunes, Cultural Folk Dance Dinner, Fort Tours.
+- **Highlights**: City Palace, Amber Fort, Desert camping under stars.
+- **Vibe**: Cultural, grand, historical.
+
+---
+
+## GENERAL POLICIES (Use when asked)
+- **Booking Amount**: 50% advance to confirm.
+- **Cancellation**: Full refund if cancelled 7 days before trip. No refund within 7 days.
+- **Inclusions**: All taxes (GST) included in quotes.
+- **Exclusions**: Flight/Train tickets to the starting point (we only handle land packages).
